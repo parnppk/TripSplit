@@ -1,0 +1,6 @@
+out/
+.idea/workspace.xml
+.idea/shelf/
+*.class
+.DS_Store
+Thumbs.db
